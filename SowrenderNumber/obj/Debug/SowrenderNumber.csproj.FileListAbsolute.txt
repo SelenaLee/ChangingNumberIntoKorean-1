@@ -1,0 +1,9 @@
+D:\workplace\c#\sowrender\SowrenderNumber\SowrenderNumber\bin\Debug\SowrenderNumber.exe.config
+D:\workplace\c#\sowrender\SowrenderNumber\SowrenderNumber\bin\Debug\SowrenderNumber.exe
+D:\workplace\c#\sowrender\SowrenderNumber\SowrenderNumber\bin\Debug\SowrenderNumber.pdb
+D:\workplace\c#\sowrender\SowrenderNumber\SowrenderNumber\obj\Debug\SowrenderNumber.csprojResolveAssemblyReference.cache
+D:\workplace\c#\sowrender\SowrenderNumber\SowrenderNumber\obj\Debug\SowrenderNumber.Form1.resources
+D:\workplace\c#\sowrender\SowrenderNumber\SowrenderNumber\obj\Debug\SowrenderNumber.Properties.Resources.resources
+D:\workplace\c#\sowrender\SowrenderNumber\SowrenderNumber\obj\Debug\SowrenderNumber.csproj.GenerateResource.Cache
+D:\workplace\c#\sowrender\SowrenderNumber\SowrenderNumber\obj\Debug\SowrenderNumber.exe
+D:\workplace\c#\sowrender\SowrenderNumber\SowrenderNumber\obj\Debug\SowrenderNumber.pdb
